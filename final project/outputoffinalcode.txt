@@ -1,0 +1,44 @@
+ adding line  the output is : 
+1
+2
+3float x1 = 3.125;;;
+4
+5double f1(float a, int x)
+6{if(x<x1)
+7double z;;
+8else z = 0.01;}}
+9else return z;
+10}
+11
+12int main(void)
+13{{{{
+14int n1; double z;
+15n1=25; z=f1(n1);}
+
+
+
+ error checking  step done: 
+Unmatched '}' at line 8 
+Unmatched 'else' at line 9 
+Unmatched '}' at line 10 
+Unmatched '{' at line 15 
+Duplicate token at line 3 
+Duplicate token at line 6 
+
+
+
+keywords are : 
+ 
+ 
+float double int 
+
+
+headers file are : 
+ 
+ 
+stdio.h
+
+variables are : - 
+-- x1-- -- a-- -- x-- -- n1-- -- z-- 
+functions are : - 
+-- f1-- -- main-- 
